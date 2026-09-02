@@ -1,6 +1,58 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap');
 
+.climate-page-hero .climate-page-hero-aside{padding:clamp(2rem,4vw,4rem);background:var(--paper)}
+.climate-page-hero .climate-page-hero-drawing{width:min(86%,500px);height:auto;object-fit:contain}
+.climate-page-hero{display:grid;grid-template-columns:1.2fr .8fr;min-height:720px;max-width:var(--max);margin:auto;border-bottom:1px solid var(--line)}
+.climate-page-hero-copy{padding:8vw 5vw 6vw}
+.climate-page-hero-copy .hero-title{max-width:970px}
+.climate-page-hero-copy .page-intro{max-width:800px}
+.climate-page-hero-aside{display:flex;align-items:center;justify-content:center;overflow:hidden;border-left:1px solid var(--line)}
+.climate-page-hero-drawing{mix-blend-mode:multiply}
+.climate-introduction{border-bottom:1px solid var(--line)}
+.climate-introduction .large-text{max-width:640px}
+.climate-domains{padding-top:8vw}
+.climate-domain-grid{display:grid;grid-template-columns:repeat(6,1fr);border-top:1px solid var(--line);border-left:1px solid var(--line)}
+.climate-domain-card{grid-column:span 2;min-height:360px;padding:3.2rem 2rem;border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+.climate-domain-card:nth-child(n+4){grid-column:span 3}
+.climate-domain-card h3{margin-top:3.4rem}
+.climate-method{display:grid;grid-template-columns:1fr 1fr;max-width:var(--max);margin:auto;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.climate-method>div{padding:7vw 5vw}
+.climate-method-heading{border-right:1px solid var(--line)}
+.climate-method-heading h2{font-size:clamp(3rem,5vw,6.1rem)}
+.climate-analysis-list{display:grid;grid-template-columns:1fr 1fr;padding:0;margin:2.5rem 0 3rem;list-style:none;border-top:1px solid var(--line);border-left:1px solid var(--line)}
+.climate-analysis-list li{padding:1rem 1.2rem;border-right:1px solid var(--line);border-bottom:1px solid var(--line);text-transform:uppercase;font-size:.72rem;font-weight:600;letter-spacing:.08em}
+.climate-positioning,.climate-territory{border-bottom:1px solid var(--line)}
+.climate-territory h2{font-size:clamp(2.8rem,4.6vw,5.6rem)}
+.climate-audience-grid{display:grid;grid-template-columns:repeat(4,1fr);padding:0;margin:0;list-style:none;border-top:1px solid var(--line);border-left:1px solid var(--line)}
+.climate-audience-grid li{display:flex;flex-direction:column;justify-content:space-between;min-height:180px;padding:1.5rem;border-right:1px solid var(--line);border-bottom:1px solid var(--line);font-family:var(--display);font-size:clamp(1.4rem,2vw,2.1rem);line-height:1.05}
+.climate-audience-grid span{font-family:var(--serif);font-size:.7rem;font-weight:600;letter-spacing:.12em}
+.climate-profile-link{max-width:800px;margin:3rem 0 0}
+.climate-conclusion h2{font-size:clamp(2.8rem,4.4vw,5.2rem)}
+.climate-statement{font-family:var(--display);font-size:clamp(2rem,3.3vw,4rem);line-height:1.02;margin:2.4rem 0}
+
+@media(max-width:1050px){
+  .climate-page-hero{grid-template-columns:1fr}
+  .climate-page-hero-aside{min-height:440px;border-left:0;border-top:1px solid var(--line)}
+  .climate-domain-grid{grid-template-columns:repeat(2,1fr)}
+  .climate-domain-card,.climate-domain-card:nth-child(n+4){grid-column:span 1}
+  .climate-method{grid-template-columns:1fr}
+  .climate-method-heading{border-right:0;border-bottom:1px solid var(--line)}
+  .climate-audience-grid{grid-template-columns:repeat(2,1fr)}
+}
+@media(max-width:700px){
+  .climate-page-hero{min-height:0}
+  .climate-page-hero-copy{padding:4.5rem 1.4rem}
+  .climate-page-hero-copy .profile-subtitle{font-size:.7rem}
+  .climate-page-hero-aside{min-height:280px}
+  .climate-domain-grid,.climate-analysis-list,.climate-audience-grid{grid-template-columns:1fr}
+  .climate-domain-card{min-height:0;padding:2.6rem 1.4rem}
+  .climate-method>div{padding:4.5rem 1.4rem}
+  .climate-analysis-list li{padding:.9rem 1rem}
+  .climate-audience-grid li{min-height:145px}
+  .climate-conclusion>div{padding:4.5rem 1.4rem}
+}
+
 :root{
   --paper:#f2efe8;--paper2:#faf8f3;--ink:#1f211f;--muted:#696861;--line:rgba(31,33,31,.16);
   --sand:#b6a98f;--max:1500px;--serif:"Inter",sans-serif;--display:"Cormorant Garamond",Georgia,"Times New Roman",serif
