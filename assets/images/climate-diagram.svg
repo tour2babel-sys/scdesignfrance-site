@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+ <rect width="900" height="700" fill="#f8f5ee"/>
+ <g fill="none" stroke="#353633" stroke-width="2">
+  <circle cx="450" cy="350" r="120"/>
+  <circle cx="450" cy="350" r="230" stroke-dasharray="8 8" opacity=".35"/>
+  <path d="M450 90v140M450 470v140M190 350h140M570 350h140"/>
+  <path d="M450 170l-20 28h40z"/>
+  <path d="M295 355q35-75 75 0q35-75 75 0" opacity=".65"/>
+  <path d="M600 295c-25 20-38 45-38 72a38 38 0 0076 0c0-27-13-52-38-72z" opacity=".65"/>
+  <path d="M421 529q29-70 58 0" opacity=".65"/>
+ </g>
+ <g font-family="Arial" font-size="22" fill="#353633">
+  <text x="405" y="345">ADAPTER</text><text x="396" y="375">LE PROJET</text>
+  <text x="388" y="58">INCENDIE</text><text x="365" y="650">SÉCHERESSE</text>
+  <text x="70" y="357">INONDATION</text><text x="713" y="357">CHALEUR</text>
+ </g>
+</svg>
