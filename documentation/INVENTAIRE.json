@@ -1,0 +1,615 @@
+{
+  "version_source": 100,
+  "date_export": "2026-09-29",
+  "pages": [
+    {
+      "fichier": "index.html",
+      "titre": "Accueil"
+    },
+    {
+      "fichier": "missions.html",
+      "titre": "Mission"
+    },
+    {
+      "fichier": "methode.html",
+      "titre": "Méthode"
+    },
+    {
+      "fichier": "design-management.html",
+      "titre": "Design Management"
+    },
+    {
+      "fichier": "adaptation-changement-climatique.html",
+      "titre": "Adaptation climatique"
+    },
+    {
+      "fichier": "projets.html",
+      "titre": "Projets"
+    },
+    {
+      "fichier": "a-propos.html",
+      "titre": "À propos"
+    },
+    {
+      "fichier": "ressources.html",
+      "titre": "Ressources naturelles"
+    },
+    {
+      "fichier": "regard-2050.html",
+      "titre": "Regard 2050"
+    },
+    {
+      "fichier": "fabrice-imbrosciano.html",
+      "titre": "Fabrice Imbrosciano"
+    },
+    {
+      "fichier": "sonia-chassint.html",
+      "titre": "Sonia Chassint"
+    },
+    {
+      "fichier": "contact.html",
+      "titre": "Contact"
+    },
+    {
+      "fichier": "resilience.html",
+      "titre": "Redirection vers Adaptation climatique"
+    }
+  ],
+  "fichiers": [
+    {
+      "chemin": "LIRE-MOI.md",
+      "octets": 5746,
+      "sha256": "5cb866d397643cc2241fe066924fdee93881c1001f1e469b7155014269bee527"
+    },
+    {
+      "chemin": "a-propos.html",
+      "octets": 7256,
+      "sha256": "3cb0f882e2b26be0853888e1818ca87477cd4e0c563b2df4b396228c27b6fb10"
+    },
+    {
+      "chemin": "adaptation-changement-climatique.html",
+      "octets": 14244,
+      "sha256": "8c99cb5848648114f98049e307a3dd369a5c01d8388bc51a13539e63c5691e46"
+    },
+    {
+      "chemin": "assets/css/styles.css",
+      "octets": 39358,
+      "sha256": "f0004589b85339b4fdf3f4488ee44206e175eaf837e14b63ba570488443b3198"
+    },
+    {
+      "chemin": "assets/fonts/CormorantGaramond-Light.woff2",
+      "octets": 192832,
+      "sha256": "4bafa704ce335aa2fe4ea43fbbf469b135f5824029dcc035f361a79162631d11"
+    },
+    {
+      "chemin": "assets/fonts/CormorantGaramond-Regular.woff2",
+      "octets": 205872,
+      "sha256": "5c63b39532df3ebb8c6812f68f268335eb35324f9fcd4382e69ed3e7700250c4"
+    },
+    {
+      "chemin": "assets/fonts/Inter.ttf",
+      "octets": 876576,
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    },
+    {
+      "chemin": "assets/fonts/OFL-Cormorant-Garamond.txt",
+      "octets": 4388,
+      "sha256": "ecd1b9f2f5bd3ac0614ce50c6024c69044a555afe1dcd79e7a33de738ee59410"
+    },
+    {
+      "chemin": "assets/fonts/OFL-Inter.txt",
+      "octets": 4378,
+      "sha256": "26dab55086aad1f00eb79ec805e90424170ff2b5d243a934cf04447a75995c0a"
+    },
+    {
+      "chemin": "assets/images/a-propos-certification-ia.png",
+      "octets": 263447,
+      "sha256": "cdbb93bed6cbaebb43ca110645d86a221958df32960236fc561081341907e578"
+    },
+    {
+      "chemin": "assets/images/a-propos-composition-complete.jpg",
+      "octets": 728777,
+      "sha256": "cb4a5380b1312dbb4ad4a63ba825b46c823a28af4029686d4f63235fa09e538b"
+    },
+    {
+      "chemin": "assets/images/accueil-composition-territoire.jpg",
+      "octets": 934284,
+      "sha256": "b10b0fb513117fdc8bd5d3162ce9d973d124e0184ee054e4a54b001edb579554"
+    },
+    {
+      "chemin": "assets/images/accueil-enjeux-statiques.jpg",
+      "octets": 306745,
+      "sha256": "c7abd7cbddad0fb53d027f1e8b1ef7f7b0b9a09b5e3d8679c03998d1d9c44b80"
+    },
+    {
+      "chemin": "assets/images/accueil-maquette-papier.jpg",
+      "octets": 526549,
+      "sha256": "390691bcefacbf4a255a373000c7cbb4379be0857388f0c544c06d250d4b6559"
+    },
+    {
+      "chemin": "assets/images/accueil-projets-papier.png",
+      "octets": 1515872,
+      "sha256": "4c75f374980f09a0429a6586c6934350454bb082ed59e26b2f3f20044edce737"
+    },
+    {
+      "chemin": "assets/images/adaptation-cercle-legendes.jpg",
+      "octets": 165745,
+      "sha256": "8f7f63669d001e2d9f00975c11fe03562f8aab45619d91198f702768a2ad55e2"
+    },
+    {
+      "chemin": "assets/images/adaptation-climatique-papier.png",
+      "octets": 2753594,
+      "sha256": "58a9f905cb40aece96a8c1e81f7ad4520902d70ab22893db70bc735ee77b5e95"
+    },
+    {
+      "chemin": "assets/images/adaptation-composition-complete.jpg",
+      "octets": 536488,
+      "sha256": "cffa106d30e011038e130f259d5dfe527700fca87177d6783b4836774163538d"
+    },
+    {
+      "chemin": "assets/images/adaptation-domaines-illustres.jpg",
+      "octets": 511359,
+      "sha256": "55c2dc6c4f5896d144f8d315e65c2c3504c471817790da77675ac8f26e935c49"
+    },
+    {
+      "chemin": "assets/images/adaptation-expertise-composition.png",
+      "octets": 1025145,
+      "sha256": "f58343c39e9cdca19a0a9bdc98bdbb2f75e8ce95e2c4177caa3cd8e786bb1b00"
+    },
+    {
+      "chemin": "assets/images/adaptation-introduction-cercle.png",
+      "octets": 483201,
+      "sha256": "ccf1ffd4e2797576988838bb34740069e900c1533d486ec6c23a41e639867bf7"
+    },
+    {
+      "chemin": "assets/images/adaptation-publics-illustres.png",
+      "octets": 1672534,
+      "sha256": "b238d8a1857986f616e4a6c45f1112db3b9349076c1213e60009c20953020191"
+    },
+    {
+      "chemin": "assets/images/adaptation-publics-sans-bandeaux.png",
+      "octets": 1436654,
+      "sha256": "ec760a9688e6c84fda328e17e06bf4e0d12497a44176688ab41d1f630e751008"
+    },
+    {
+      "chemin": "assets/images/adaptation-publics-tableau-centre.png",
+      "octets": 562121,
+      "sha256": "9a35034ba06abd2c0cdfea173d29ffdff91c8fcd759a09b1d14d21045c1b6852"
+    },
+    {
+      "chemin": "assets/images/adaptation-risques-illustres.jpg",
+      "octets": 362042,
+      "sha256": "582e43df8f921949ee5f14304d571b605ab2f29f61a3f22bef3d7287ab48473f"
+    },
+    {
+      "chemin": "assets/images/bandeau-logo-papier.jpg",
+      "octets": 68441,
+      "sha256": "83dbbd82dba0c1028e6ebee7db96a993e53551847debcb4e74222597422d6ee9"
+    },
+    {
+      "chemin": "assets/images/climate-diagram-transparent.svg",
+      "octets": 826,
+      "sha256": "486377914e3e178601180987225f2dacadea6c5d172944a703dfaef7d4699268"
+    },
+    {
+      "chemin": "assets/images/climate-diagram.svg",
+      "octets": 875,
+      "sha256": "c9e54e9cb045b36d02b4aca18b22af5ecee5a2f9e4573dd270d349328c155503"
+    },
+    {
+      "chemin": "assets/images/climate-maquette-20260918.png",
+      "octets": 2512334,
+      "sha256": "a9cc83bd5a42ab08f31a515d48148d1a9867cd3b6428bafba360bbbca7e5ba2b"
+    },
+    {
+      "chemin": "assets/images/croquis-architecture-resiliente.png",
+      "octets": 420536,
+      "sha256": "538d005f98db8a2eed5f428a327fed5176a58d8dea8946bf5fb640dff5c8e7cd"
+    },
+    {
+      "chemin": "assets/images/croquis-resilience.svg",
+      "octets": 1461,
+      "sha256": "d62b8e29e1a36e391d1e9b54073b515ee2e215bac00e66c167bade561a897e16"
+    },
+    {
+      "chemin": "assets/images/design-management/ambiance-hospitality.webp",
+      "octets": 95632,
+      "sha256": "397cb26fcb96cde09249f454621f28b1fba3bb56b2aad813b0ab6dfc1afedda1"
+    },
+    {
+      "chemin": "assets/images/design-management/cabanes-composition.png",
+      "octets": 648375,
+      "sha256": "cb350121eb0a1004a57a1433ca021ef2553fdea25a2d2c35b42d802f7cf858bd"
+    },
+    {
+      "chemin": "assets/images/design-management/cabanes-perchees.webp",
+      "octets": 62762,
+      "sha256": "e16544545551fe64e47dd0d3d6121501767bfdeea2120011ceb16afd3643b7d9"
+    },
+    {
+      "chemin": "assets/images/design-management/chambre-def2.png",
+      "octets": 4986262,
+      "sha256": "5abd75f7838e1e9a22e79c671ce94f1946eafef203101e295fde3e0b86cd409c"
+    },
+    {
+      "chemin": "assets/images/design-management/coupe-cabane.webp",
+      "octets": 86398,
+      "sha256": "5adfb2b89dceac1aa66cb9b040064e46b701d920a407d1e81414a4c5cbc915d2"
+    },
+    {
+      "chemin": "assets/images/design-management/logo-accompagner-la-realisation.png",
+      "octets": 902735,
+      "sha256": "5072c08301a39e7356a87e2c6410f37f320dfa1d4dff48cef7564eae9e8118b2"
+    },
+    {
+      "chemin": "assets/images/design-management/logo-comprendre-le-potentiel.png",
+      "octets": 6129,
+      "sha256": "e0dfd90a19764ae50b9e85620a4d00198dbe434a6f19849ea9c8fb2f2012ba3f"
+    },
+    {
+      "chemin": "assets/images/design-management/logo-definir-le-concept.png",
+      "octets": 4710,
+      "sha256": "cd368058724824a82410bdde947e6a54936956b71676bd9cfadcb6f4595ac8ee"
+    },
+    {
+      "chemin": "assets/images/design-management/logo-piloter-la-conception.png",
+      "octets": 16845,
+      "sha256": "8663e5cfaf1b7b5904b7c1a5d4fea7f1a573955265b24a18d28d41087ef33fc6"
+    },
+    {
+      "chemin": "assets/images/design-management/maquette-cabanes.webp",
+      "octets": 166840,
+      "sha256": "9ad2c05d977cc9bc0cef377bab681cc87f2345fb089f6621a7aa62fbfca10189"
+    },
+    {
+      "chemin": "assets/images/design-management/matieres-reliefs.webp",
+      "octets": 242466,
+      "sha256": "4b71120e8b8421bd0d82d5e1e785243e3d9c9cd8d8a41bd755e50982ccfe8b81"
+    },
+    {
+      "chemin": "assets/images/design-management/sonia-chassint-portrait.png",
+      "octets": 2308256,
+      "sha256": "23c30653c07a21012fa7355ecb2437540c04679541bb1f873648b032b58c25a1"
+    },
+    {
+      "chemin": "assets/images/design-management/sonia-chassint.png",
+      "octets": 196146,
+      "sha256": "1c8afff94afe8623e50cf8f8eb8c1fd29985046fad39d8c6fd21818cc36d57e4"
+    },
+    {
+      "chemin": "assets/images/downloads/sc-design-france-phoenix-code.zip",
+      "octets": 16252337,
+      "sha256": "99823c79cd4c1e02b04afe5cd333611a106a4381001d5d4db6d0e2b53f6b4ccc"
+    },
+    {
+      "chemin": "assets/images/enjeu-chaleur.png",
+      "octets": 886964,
+      "sha256": "526b2a71d8923d8989c027f149b1ce53e52ac6fc9313d09015326a9c896ae5df"
+    },
+    {
+      "chemin": "assets/images/enjeu-decision.png",
+      "octets": 817813,
+      "sha256": "3c78ae318fce9d1d3767594f64d74205331dab290ca4393ff5af9ba559599ba1"
+    },
+    {
+      "chemin": "assets/images/enjeu-eau.png",
+      "octets": 830537,
+      "sha256": "c8b719fd0481eb5a2215cffda8c53c286ab4fe67ebbbe1cb955630063007c144"
+    },
+    {
+      "chemin": "assets/images/enjeu-feux-foret.png",
+      "octets": 821672,
+      "sha256": "f7308e1dec49f70fd2b6a554ce131069d01cd24824503849637973934e34762d"
+    },
+    {
+      "chemin": "assets/images/enjeu-mutation.png",
+      "octets": 807436,
+      "sha256": "33e51047bc02ae0ffdf600abdcc05f26c48b79b02db7dd70dce910bff1fe92a8"
+    },
+    {
+      "chemin": "assets/images/fabrice-imbrosciano-portrait.png",
+      "octets": 2459056,
+      "sha256": "eae8a5ca234bf484398dc00de799dfdf8094c6e2d65b03eb9426ba113c6a5ff6"
+    },
+    {
+      "chemin": "assets/images/fabrice-imbrosciano.png",
+      "octets": 296681,
+      "sha256": "be5b7d5288ff417259a481cb65574a70812af8c3ee87797b16d7f27e73aae201"
+    },
+    {
+      "chemin": "assets/images/favicon.png",
+      "octets": 219911,
+      "sha256": "1e9b37710ac2205a160e6208a0b9262cdc4e8c306aacc36d39b0bdef207b6b4b"
+    },
+    {
+      "chemin": "assets/images/favicon.svg",
+      "octets": 1227,
+      "sha256": "cfae0a2192a8299bae5167c85df0f8db092ea37c2ab7dbd95e45d9cb8c21551f"
+    },
+    {
+      "chemin": "assets/images/file.svg",
+      "octets": 392,
+      "sha256": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307"
+    },
+    {
+      "chemin": "assets/images/globe.svg",
+      "octets": 1036,
+      "sha256": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9"
+    },
+    {
+      "chemin": "assets/images/hero-architect-sketch.png",
+      "octets": 3628869,
+      "sha256": "49ddf945187c6b2a35697ee0343bd357efa4b10655ffb74ddca4277b0d893ff1"
+    },
+    {
+      "chemin": "assets/images/logo-scdesign-white.svg",
+      "octets": 1216,
+      "sha256": "2bc7b6feb51793d8227e6d0bfb18d5e2bdfc6f81e5c9d01a9c9d0861d955e19d"
+    },
+    {
+      "chemin": "assets/images/logo-scdesign.svg",
+      "octets": 1204,
+      "sha256": "cf66dcd2f6db7dcbe476566ebb30657a381f6779afe3930133e9121b57d60fae"
+    },
+    {
+      "chemin": "assets/images/method-comprendre-refined.png",
+      "octets": 155086,
+      "sha256": "5dd46b94c0039fc4d915801ae77ee196a11fbd4f532d96d64987f17f53fc6a14"
+    },
+    {
+      "chemin": "assets/images/method-comprendre.png",
+      "octets": 5714,
+      "sha256": "7129084e7a7d28cd2553111f98bcdd56b40b1f9bddb71d1ba9e446cff2bff228"
+    },
+    {
+      "chemin": "assets/images/method-decider-refined.png",
+      "octets": 111232,
+      "sha256": "d1cb05bde732dd5fcf7021353623372d9bf256ea41d3e3cabec49f4c07e951e6"
+    },
+    {
+      "chemin": "assets/images/method-decider.png",
+      "octets": 6259,
+      "sha256": "ddf7491c88318016c1021dda83be793acd61827b1b3a3f9f73e8095a437ad182"
+    },
+    {
+      "chemin": "assets/images/method-observer-refined.png",
+      "octets": 30636,
+      "sha256": "4df8946b5134573991392b9e73145ef386fe87a7f1ddde796e40113fef985e92"
+    },
+    {
+      "chemin": "assets/images/method-observer.png",
+      "octets": 6036,
+      "sha256": "a06a67a02cad15711c57f71713d01b074fbf62c1694e35d2729cf288718c6862"
+    },
+    {
+      "chemin": "assets/images/method-transformer-refined.png",
+      "octets": 84663,
+      "sha256": "9f2ce59413ba46c2fa1024bbb03911f010b9e5495eeab072835454f4465fbf25"
+    },
+    {
+      "chemin": "assets/images/method-transformer.png",
+      "octets": 7547,
+      "sha256": "427715b437912587b8c3195d87df6f7c126c38a2f7f713b068e3f1b1ce6aebd4"
+    },
+    {
+      "chemin": "assets/images/methode-certification-ia.jpg",
+      "octets": 248421,
+      "sha256": "70406a7f1f5883309c1d3ece8d20a7b8acdf29850c979d7ec66d1a50443d1b8b"
+    },
+    {
+      "chemin": "assets/images/methode-etapes-textes-decales.png",
+      "octets": 402014,
+      "sha256": "58caf9d33691849db5ac2ee8f5120a7aced7913df6ee396c041d004664808371"
+    },
+    {
+      "chemin": "assets/images/methode-maquette-20260918.png",
+      "octets": 3473057,
+      "sha256": "5a57becf6207bb7cf1ac7f7795de1dfabc2037e9b93b193b7ddae330c6c75551"
+    },
+    {
+      "chemin": "assets/images/methode-papier-resilience.png",
+      "octets": 3275657,
+      "sha256": "50eec7597b1c1138608705b38c81dcad49d7313b7c9a05b14b6adc40e53dfd88"
+    },
+    {
+      "chemin": "assets/images/methode-quatre-etapes-final.jpg",
+      "octets": 469546,
+      "sha256": "b3a82c1caa6ba6a8a81358ec1248df2e38d3736220b825b4c8c24841deac56c9"
+    },
+    {
+      "chemin": "assets/images/methode-quatre-etapes-illustrees.jpg",
+      "octets": 475385,
+      "sha256": "b759155aed758dd1c513282a96e14d01f01def44dbb72ac02b478a8cc4bee2e4"
+    },
+    {
+      "chemin": "assets/images/methode-quatre-etapes-sans-trait.jpg",
+      "octets": 469546,
+      "sha256": "b3a82c1caa6ba6a8a81358ec1248df2e38d3736220b825b4c8c24841deac56c9"
+    },
+    {
+      "chemin": "assets/images/mission-composition-complete.png",
+      "octets": 2562256,
+      "sha256": "ef9d7efdb963be3f26cd7d1312a2996511f961925de446cc529bd35154edebfd"
+    },
+    {
+      "chemin": "assets/images/mission-paysage-papier.png",
+      "octets": 2562256,
+      "sha256": "ef9d7efdb963be3f26cd7d1312a2996511f961925de446cc529bd35154edebfd"
+    },
+    {
+      "chemin": "assets/images/project-hospitality-20260918.png",
+      "octets": 4110116,
+      "sha256": "3888c8bb98cd275417803a72ba4ee013c8ae961e74b0fb69078904e0431860dc"
+    },
+    {
+      "chemin": "assets/images/project-hospitality-sketch.png",
+      "octets": 3341733,
+      "sha256": "dad7b19b9f8bb92b9f297c91741603ad1e34cfece9cf7b0d6af251b87f2b5c7b"
+    },
+    {
+      "chemin": "assets/images/project-hospitality.svg",
+      "octets": 623,
+      "sha256": "bff2b61ea1ad9fec16fd92903f74067ac93c2417e182a1f3972a83adffdeaa42"
+    },
+    {
+      "chemin": "assets/images/project-public-20260918.png",
+      "octets": 3928714,
+      "sha256": "62b4b81615d72cc8e76a76be1762bdd29e2bf00c2d191d9ce4674338223285ca"
+    },
+    {
+      "chemin": "assets/images/project-public-sketch.png",
+      "octets": 3380931,
+      "sha256": "07ea15a1562ee368ba79e961ec586c87d58a99a99d13d6ef6ee7f649f8f7f30e"
+    },
+    {
+      "chemin": "assets/images/project-public.svg",
+      "octets": 645,
+      "sha256": "0a684635b6a71b9ab86252297920971fe1be4616b11e2c8fa12868c5c8fe8817"
+    },
+    {
+      "chemin": "assets/images/project-territory-20260918.png",
+      "octets": 3574585,
+      "sha256": "92761cb8468d165ff02d5f488ccd4e5bba67c087605f802d76753989900b622f"
+    },
+    {
+      "chemin": "assets/images/project-territory-sketch.png",
+      "octets": 3403488,
+      "sha256": "544152f898336658d1d23eedef58fce3a55b1d9df82e28ca4a770e92e32dfd1b"
+    },
+    {
+      "chemin": "assets/images/project-territory.svg",
+      "octets": 641,
+      "sha256": "4ed65eac2344d56258e31c3305a3f5e131179b0f53cb571d713e55ca7fe6c751"
+    },
+    {
+      "chemin": "assets/images/project-tourism-20260918.png",
+      "octets": 3926913,
+      "sha256": "324e0f615ede3459a2928e15a992bd407725b6201ca982b81ff195a29f157a3f"
+    },
+    {
+      "chemin": "assets/images/project-tourism-sketch.png",
+      "octets": 2923570,
+      "sha256": "57ac9ef4bf476608186d359db749775b5fda78935ed3079a1d9cc815a13d0a2c"
+    },
+    {
+      "chemin": "assets/images/project-tourism.svg",
+      "octets": 643,
+      "sha256": "adf6a1acac1bd951e0895102722f5e5788be1683d845113b2a2a91d011387457"
+    },
+    {
+      "chemin": "assets/images/projets-composition-papier.png",
+      "octets": 2575770,
+      "sha256": "ba97f3b48ffe968bc411ec278d8b247705349a90118d8a1ee3b8d01bb22c133e"
+    },
+    {
+      "chemin": "assets/images/regard-2050-territoire-papier.png",
+      "octets": 1537182,
+      "sha256": "b74e98fe0a80055b005c0cd20ffb2b2b8e528067495a1d8f8053dd3e2a641d97"
+    },
+    {
+      "chemin": "assets/images/resilience-papier.png",
+      "octets": 485140,
+      "sha256": "ec65914406c1b3cc0eb230de7cdb7f4b71d064a25c4057926a7c90fcec93835d"
+    },
+    {
+      "chemin": "assets/images/ressources-composition-complete.png",
+      "octets": 2771114,
+      "sha256": "3c7cb5d5a991302e69cdc4d13a4966334141bd59c0637a73064407c97a1e7372"
+    },
+    {
+      "chemin": "assets/images/ressources-quatre-thematiques.png",
+      "octets": 76027,
+      "sha256": "cbfe2da6c01188930dfb10efe2bdefa5342ae76942e30af39d98b83030141494"
+    },
+    {
+      "chemin": "assets/images/station-architect-sketch.png",
+      "octets": 3335922,
+      "sha256": "3703daa94ed7f7308bd9c0d1c8b31ff37a4772b031b59b34e29a939f930dff17"
+    },
+    {
+      "chemin": "assets/images/tourism-architect-sketch.png",
+      "octets": 4246052,
+      "sha256": "7ecbaaaaa6a6c5b022f645eef98fa130d9ac599f9ab361ed60c95f3f9741959f"
+    },
+    {
+      "chemin": "assets/images/voir-avant-editorial.png",
+      "octets": 2593807,
+      "sha256": "3f6bfeaeb493f89b6ee778c7d74863cd14d57cc9ae5b77b13b2ef16791f9aadf"
+    },
+    {
+      "chemin": "assets/images/water-architect-sketch.png",
+      "octets": 4017434,
+      "sha256": "ed095203db98a9a274429b6658c61a8678234b86298cd4ccae632d13e8c56033"
+    },
+    {
+      "chemin": "assets/images/window.svg",
+      "octets": 386,
+      "sha256": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66"
+    },
+    {
+      "chemin": "assets/js/main.js",
+      "octets": 1270,
+      "sha256": "c4a0e38bd31a0e2637aea51cfd8644550c0d82c23936565b0163d68ab4b29a59"
+    },
+    {
+      "chemin": "contact.html",
+      "octets": 5127,
+      "sha256": "1307d8d6db72fd9a28e4cd560654713f4bd34c903aef77cab42f13f1065d28d9"
+    },
+    {
+      "chemin": "design-management.html",
+      "octets": 9713,
+      "sha256": "46b45affe4ad3d1a953ec1c41176458f2b1f600a90daa4f00d98104cdf0a07da"
+    },
+    {
+      "chemin": "documentation/GUIDE-PHOENIX-CODE.html",
+      "octets": 6421,
+      "sha256": "b6e1bacacaa5f6d65a96ce429239e130e1e22791774166a9081272a91930e38b"
+    },
+    {
+      "chemin": "fabrice-imbrosciano.html",
+      "octets": 9111,
+      "sha256": "c72ad2f5dc2d3b9ff02e13a8bff5a7662dec6fd4f1ce1b6f8f620c932dee116f"
+    },
+    {
+      "chemin": "index.html",
+      "octets": 11013,
+      "sha256": "49112cc38a11a29eccca5fa9382caab3c8b26e84d41c3a0f4706dada241cf975"
+    },
+    {
+      "chemin": "methode.html",
+      "octets": 6465,
+      "sha256": "8c9ca645d127a50b421b06cc05eefd78b72ba108195c4280e7358f25103b4079"
+    },
+    {
+      "chemin": "missions.html",
+      "octets": 4962,
+      "sha256": "4c226bcbc523f9d4e3e18086bed7e65b7182a9bacc6428bb2696362894152c10"
+    },
+    {
+      "chemin": "projets.html",
+      "octets": 5174,
+      "sha256": "edaeb4718279e7bf6bd481481aaf44c04542a61a8ac956cbad38278b9fcbf8fa"
+    },
+    {
+      "chemin": "regard-2050.html",
+      "octets": 12063,
+      "sha256": "6e90d044079d909a69c201d669527e77125437e0b9065990e51f4101aa4b6948"
+    },
+    {
+      "chemin": "resilience.html",
+      "octets": 278,
+      "sha256": "20f5d0852e025b1a3b03ec5ca4ba709a54f84433101338d73d64c38242eded7f"
+    },
+    {
+      "chemin": "ressources.html",
+      "octets": 6687,
+      "sha256": "1ad1c65555170875ed356c1efdc7adad9936eb3db4cac96db0ea4c60faf6e02d"
+    },
+    {
+      "chemin": "sonia-chassint.html",
+      "octets": 4061,
+      "sha256": "cb237838493bdac8dffcaaedc3da318ff504537c15cd3cdfa4438eb560eeb8d8"
+    }
+  ]
+}
