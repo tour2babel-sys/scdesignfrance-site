@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+<rect width="1200" height="750" fill="#e8e2d7"/>
+<g fill="none" stroke="#4b4b47" stroke-width="3" opacity=".8">
+<path d="M100 620 Q300 540 510 590 T1100 565"/>
+<path d="M230 565 L410 365 L785 390 L980 540"/>
+<path d="M350 600 L350 425 L815 445 L815 600"/>
+<path d="M350 425 L550 300 L900 340 L815 445"/>
+<path d="M550 300 L550 600"/>
+<path d="M690 335 L690 600"/>
+</g>
+<g fill="#b9aa91" opacity=".35"><circle cx="590" cy="570" r="130"/><circle cx="830" cy="570" r="75"/></g>
+<text x="70" y="90" font-family="Georgia" font-size="46" fill="#2b2c29">Équipements publics</text>
+</svg>
