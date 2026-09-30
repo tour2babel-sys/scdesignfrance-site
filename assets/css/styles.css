@@ -222,4 +222,3 @@ h3{font-size:clamp(1.45rem,2vw,2.3rem);font-weight:400}.hero-title{font-family:"
 
 /* Portraits Fabrice et Sonia : hauteur doublee, proportions conservees. */
 .profile-photo-agrandie{width:min(100%,clamp(272.097px,24.009vw,352.126px));height:auto;}
-
