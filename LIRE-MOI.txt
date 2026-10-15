@@ -1,0 +1,32 @@
+SC DESIGN FRANCE — Export Phoenix Code — 15 octobre 2026
+
+Version : nouvelle page d’accueil simplifiée.
+
+UTILISATION
+1. Décompressez entièrement cette archive.
+2. Dans Phoenix Code, ouvrez le dossier décompressé.
+3. Ouvrez index.html puis lancez l’aperçu.
+
+FICHIERS À MODIFIER
+- index.html : contenu de la page d’accueil.
+- assets/styles.css : couleurs, typographies, mise en page et affichage mobile.
+- assets/logo-scdesign.svg : logo original.
+- assets/favicon.svg : icône du site.
+
+Aucune installation, compilation ou bibliothèque externe nécessaire.
+Le lien de contact ouvre le logiciel de messagerie du visiteur.
+
+REMPLACEMENT DE L’ANCIEN EXPORT
+Conservez une copie de votre ancien dossier avant remplacement.
+Copiez tous les fichiers de cette archive dans le dossier du site en conservant
+le dossier assets, et acceptez le remplacement des fichiers de même nom.
+Les autres fichiers HTML fournis redirigent vers index.html : ils remplacent
+les anciennes rubriques de l’export multipage.
+Si votre hébergement conserve d’autres anciennes pages sous des noms différents
+ou dans des sous-dossiers, retirez-les de la version publiée pour ne présenter
+que la nouvelle page d’accueil.
+Pour publier, transférez index.html, les fichiers HTML de redirection et assets
+sur votre hébergement. Le présent guide n’a pas besoin d’être publié.
+
+Cet export reprend la version simplifiée du 15 octobre 2026.
+Les anciennes pages détaillées et les portraits ne font pas partie de cette version.
